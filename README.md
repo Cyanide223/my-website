@@ -1,5 +1,3 @@
 # My Website
 
-now updating on update-readme branch
-
-quick edit
+updates on github doen on master before rebase
